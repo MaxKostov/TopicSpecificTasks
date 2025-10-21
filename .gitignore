@@ -4,6 +4,10 @@ target/
 !**/src/test/**/target/
 
 ### IntelliJ IDEA ###
+.idea/
+./Generics/Generics1/.idea/
+./Generics/Generics2/.idea/
+./Generics/Generics3/.idea/
 .idea/modules.xml
 .idea/jarRepositories.xml
 .idea/compiler.xml
